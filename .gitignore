@@ -1,2 +1,4 @@
 node_modules
 dist
+src/constant.ts
+src/constants.ts
